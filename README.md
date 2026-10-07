@@ -2,5 +2,5 @@
 
 A tiny project for practicing Git and pytest.
 
-**This project converts and classifies temperatures.**
+**This project converts, classifies, and summarizes temperatures.**
 
