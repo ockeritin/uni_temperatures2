@@ -3,4 +3,9 @@ def celsius_to_fahrenheit(celsius):
 
 
 def classify_temperature(celsius):
-    return "unknown"
+    if celsius < 0:
+        return "freezing"
+    elif celsius < 20:
+        return "mild"
+    else:
+        return "hot"
